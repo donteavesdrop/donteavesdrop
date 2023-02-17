@@ -6,10 +6,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donteavesdrop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=donteavesdrop" height="150" alt="stats graph"  />
   
-</div>
+</div> -->
 
 <!-- ###
 
