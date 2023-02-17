@@ -1,11 +1,9 @@
 <h2 align="left">Hi 👋! My name is KATE and I'm a Junior Developer, from Moscow</h2>
 
 ###
+
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-<div align="center">
-<img src="https://user-images.githubusercontent.com/125668287/219682284-3f68549d-9a26-412d-8eb9-095d791db12f.png" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/125668287/219682284-3f68549d-9a26-412d-8eb9-095d791db12f.png" align="center" style="width: 50%" />
 </div>  
 
 
