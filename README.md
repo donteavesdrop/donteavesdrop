@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is KATE and I'm a Junior Developer, from Moscow</h2>
 
 ###
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=donteavesdrop" height="150" alt="stats graph"  />
