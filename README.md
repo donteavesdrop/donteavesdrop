@@ -1,5 +1,4 @@
-<h2 align="left">Hi 👋! My name is KATE and I'm a Junior Developer, from Moscow</h2>
-### Hi there, I'm [Kate](https://donteavesdrop.github.com) 👋
+<h2 align="left">Hi there👋! My name is [Kate](https://donteavesdrop.github.com) and I'm a Junior Developer, from Moscow</h2>
 ###
 
 <div align="left">
