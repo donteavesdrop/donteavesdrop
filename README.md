@@ -1,4 +1,4 @@
-<h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👋! My name is Kate and I'm a Junior Developer, from Moscow</h2>
+<h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kate and I'm a Junior Developer, from Moscow</h2>
 ###
 
 <div align="left">
