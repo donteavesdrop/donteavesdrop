@@ -34,6 +34,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/donteavesdrop/donteavesdrop/blob/output/snake.svg" alt="Snake animation" />
+
+<img src="https://github.com/donteavesdrop/donteavesdrop/blob/main/snake.yml" alt="Snake animation" />
 
 ###
