@@ -4,7 +4,7 @@
 <img src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" align="center" style="width: 90%" />
 </div>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donteavesdrop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donteavesdrop&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donteavesdrop&theme=tokyonight&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donteavesdrop&theme=tokyonight)
