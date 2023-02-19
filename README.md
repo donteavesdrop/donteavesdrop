@@ -21,8 +21,7 @@
 
 ### -->
 
-<h4 align="left">- Skills:</h2>
-- Skills:
+<h3 align="left">- Skills:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -34,7 +33,7 @@
 </div>
 
 ###
-- 📫 How to reach me: import_math@mail.ru 
+<h3 align="left">- 📫 How to reach me: import_math@mail.ru </h3>
 
 ### 
 
