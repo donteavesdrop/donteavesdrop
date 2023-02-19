@@ -5,6 +5,7 @@
 </div>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=donteavesdrop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donteavesdrop&theme=tokyonight&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donteavesdrop&theme=tokyonight)
 
