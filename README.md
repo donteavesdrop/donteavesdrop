@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
 </div>
 
-[![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)]
+[![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)](https://www.codewars.com/users/donteavesdrop)
 
 ###
 <h3 align="left">- 📫 How to reach me: import_math@mail.ru </h3>
