@@ -33,6 +33,7 @@
 </div>
 
 [![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)](https://www.codewars.com/users/donteavesdrop)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=donteavesdrop&theme=dark)](https://github.com/donteavesdrop/leetcode-stats)
 
 ###
 <h3 align="left">- 📫 How to reach me: import_math@mail.ru </h3>
