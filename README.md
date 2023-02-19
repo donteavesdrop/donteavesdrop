@@ -14,9 +14,11 @@
 <!-- ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donteavesdrop&theme=tokyonight)
 
 ### -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
+
 
 - Skills:
 
