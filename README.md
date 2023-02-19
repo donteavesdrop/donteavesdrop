@@ -1,7 +1,7 @@
 <h2 align="left">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kate and I'm a Junior Developer</h2>
 
 <div align="left">
-<img src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" align="center" style="width: 90%" />
+<img src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" align="center" style="width: 85%" />
 </div>  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=donteavesdrop&theme=tokyonight)
