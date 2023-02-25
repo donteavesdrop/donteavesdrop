@@ -6,8 +6,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donteavesdrop&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donteavesdrop&theme=tokyonight&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donteavesdrop&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=donteavesdrop&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=donteavesdrop&theme=tokyonight)
 
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=donteavesdrop" height="150" alt="stats graph"  />
