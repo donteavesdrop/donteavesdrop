@@ -34,7 +34,7 @@
 
 [![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)](https://www.codewars.com/users/donteavesdrop)
 ###
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=donteavesdrop&theme=dark)](https://github.com/donteavesdrop/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=donteavesdrop&theme=dark)](https://leetcode.com/donteavesdrop)
 ###
 
 ###
