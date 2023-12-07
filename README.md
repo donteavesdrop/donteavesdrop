@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kate and I'm a Junior Developer</h2>
+//<h2 align="left">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kate and I'm a Junior Developer</h2>
 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=donteavesdrop&theme=tokyonight">
@@ -18,8 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo">
 </div>
 
-[![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)](https://www.codewars.com/users/donteavesdrop)
+//[![codewars](https://www.codewars.com/users/donteavesdrop/badges/small)](https://www.codewars.com/users/donteavesdrop)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=donteavesdrop&theme=dark)](https://leetcode.com/donteavesdrop)
+//[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=donteavesdrop&theme=dark)](https://leetcode.com/donteavesdrop)
 
 <h3 align="left">- 📫 How to reach me: import_math@mail.ru </h3>
